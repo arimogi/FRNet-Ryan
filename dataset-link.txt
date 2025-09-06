@@ -1,0 +1,3 @@
+Download dataset and place it to dataset/ folder in the root directory.
+
+https://drive.google.com/drive/folders/1KBlt_1OyPsIJvrvXWzZp7t4Hodz4lcxJ?usp=sharing
